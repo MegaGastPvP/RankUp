@@ -4,7 +4,7 @@ namespace rankup;
 use pocketmine\utils\Config;
 use rankup\command\RankUpCommand;
 use rankup\doesgroups\RankUpDoesGroups;
-use rankup\economy\BaseEconomy;
+use rankup\economy\BaseEconomy
 use rankup\economy\EconomyLoader;
 use pocketmine\plugin\PluginBase;
 use rankup\permission\PermissionLoader;
